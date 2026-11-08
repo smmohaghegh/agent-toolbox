@@ -1,0 +1,4 @@
+interface:
+  display_name: "Epic Orchestrator"
+  short_description: "Run full-access VM agents until the goal is verified"
+  default_prompt: "Use $epic-orchestrator to run this epic with full-access development VM agents that implement, test and fix until the goal is verified."
